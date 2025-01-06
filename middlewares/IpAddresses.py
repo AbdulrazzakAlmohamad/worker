@@ -1,7 +1,7 @@
 class IpAddresses:
     ipAddresses = [  # here you can add an Ip you want to use our services
-        "185.197.196.13",
-        "185.197.196.10"
+        "10.10.223.1",
+        "10.10.223.2"
         # "127.0.0.1"
     ]
 

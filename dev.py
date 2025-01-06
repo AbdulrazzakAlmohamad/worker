@@ -15,5 +15,5 @@ os.environ['MONGODB_HOST'] = 'mongodb://127.0.0.1'
 os.environ['MONGODB_PORT'] = '27017'
 
 # Auth settings
-os.environ['AUTH_USERNAME'] = 'Gpay'
-os.environ['AUTH_PASSWORD'] = 'GPAYappPython'
+os.environ['AUTH_USERNAME'] = 'gpay123'
+os.environ['AUTH_PASSWORD'] = 'gpayapppython'
